@@ -43,7 +43,7 @@ A polished PDF not only ranks better but also leaves a good impression on reader
 
 If you make PDF submission a regular part of your SEO routine, here’s what you’ll start noticing:  
 
-- A slow but steady increase in **[backlinks](https://moz.com/learn/seo/backlinks)**.  
+- A slow but steady increase in backlinks  
 - Some **referral traffic** flowing in from those platforms.  
 - Faster indexing of your web pages since Google finds your links more often.  
 - More people trusting your brand because they see your content outside of just your site.  
@@ -54,25 +54,25 @@ If you make PDF submission a regular part of your SEO routine, here’s what you
 Here’s a starting point with some of the most trusted PDF sharing websites:  
 
 ### 🔥 High DA Platforms (90+)
-- [Scribd](https://www.scribd.com)  
-- [SlideShare](https://www.slideshare.net)  
-- [Issuu](https://issuu.com)  
-- [Academia.edu](https://www.academia.edu)  
-- [ResearchGate](https://www.researchgate.net)  
+- [Scribd] 
+- [SlideShare]
+- [Issuu]
+- [Academia.edu]  
+- [ResearchGate] 
 
 ### ⭐ Strong Platforms (DA 70–89)
-- [Edocr](https://www.edocr.com)  
-- [Calameo](https://www.calameo.com)  
-- [AuthorSTREAM](https://www.authorstream.com)  
-- [4Shared](https://www.4shared.com)  
-- [Zoho Docs](https://www.zoho.com/docs)  
+- [Edocr]
+- [Calameo] 
+- [AuthorSTREAM] 
+- [4Shared]
+- [Zoho Docs]  
 
 ### 📂 Reliable Platforms (DA 40–69)
-- [DocDroid](https://www.docdroid.net)  
-- [Yumpu](https://www.yumpu.com)  
-- [Free-ebooks.net](https://www.free-ebooks.net)  
-- [PubHTML5](https://pubhtml5.com)  
-- [Slideserve](https://www.slideserve.com)  
+- [DocDroid]
+- [Yumpu] 
+- [Free-ebooks.net]
+- [PubHTML5]
+- [Slideserve]
 
 👉 This is just a glimpse. The **complete updated list contains 100+ sites** where you can start submitting right away.  
 
@@ -101,7 +101,7 @@ Want to get more out of this strategy? Here’s what works:
 
 ## Final Thoughts
 
-SEO isn’t about one big hack—it’s about small, consistent actions that stack up. PDF submission may look like a tiny step, but over time it can give you a surprising push in terms of **[backlinks](https://moz.com/learn/seo/backlinks)**, visibility, and credibility.  
+SEO isn’t about one big hack—it’s about small, consistent actions that stack up. PDF submission may look like a tiny step, but over time it can give you a surprising push in terms of backlinks visibility, and credibility.  
 
 Think of it as planting seeds. You upload today, and slowly, those PDFs will start driving search traffic and strengthening your authority online.  
 
